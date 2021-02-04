@@ -1,0 +1,12 @@
+C:\Users\gilet\source\repos\BibliotecaProves\BibliotecaProves\obj\Debug\BibliotecaProves.csprojAssemblyReference.cache
+C:\Users\gilet\source\repos\BibliotecaProves\BibliotecaProves\obj\Debug\BibliotecaProves.csproj.CoreCompileInputs.cache
+C:\Users\gilet\source\repos\BibliotecaProves\BibliotecaProves\bin\Debug\BibliotecaProves.dll
+C:\Users\gilet\source\repos\BibliotecaProves\BibliotecaProves\bin\Debug\BibliotecaProves.pdb
+C:\Users\gilet\source\repos\BibliotecaProves\BibliotecaProves\obj\Debug\BibliotecaProves.dll
+C:\Users\gilet\source\repos\BibliotecaProves\BibliotecaProves\obj\Debug\BibliotecaProves.pdb
+C:\Users\gilet\Desktop\EXAMEN\BibliotecaProves\BibliotecaProves\bin\Debug\BibliotecaProves.dll
+C:\Users\gilet\Desktop\EXAMEN\BibliotecaProves\BibliotecaProves\bin\Debug\BibliotecaProves.pdb
+C:\Users\gilet\Desktop\EXAMEN\BibliotecaProves\BibliotecaProves\obj\Debug\BibliotecaProves.csprojAssemblyReference.cache
+C:\Users\gilet\Desktop\EXAMEN\BibliotecaProves\BibliotecaProves\obj\Debug\BibliotecaProves.csproj.CoreCompileInputs.cache
+C:\Users\gilet\Desktop\EXAMEN\BibliotecaProves\BibliotecaProves\obj\Debug\BibliotecaProves.dll
+C:\Users\gilet\Desktop\EXAMEN\BibliotecaProves\BibliotecaProves\obj\Debug\BibliotecaProves.pdb
